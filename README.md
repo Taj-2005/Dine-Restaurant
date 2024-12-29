@@ -1,2 +1,2 @@
 # Dine Restaurant
-Web URL:https://dine-restaurant6.vercel.app/
+Web URL:[Dine in](https://dine-restaurant6.vercel.app/)
